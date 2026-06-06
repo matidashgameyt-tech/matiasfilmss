@@ -1,0 +1,6 @@
+{
+  "name": "Matias Films",
+  "description": "Aplicación móvil premium para la gestión y seguimiento en tiempo real de videos y proyectos de clientes para Matías Films.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
